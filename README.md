@@ -6,4 +6,4 @@
  <li>Caesars Cypher </li>
  <li>Telephone Number Validator </li>
 
-<h3 style="font-size: 14px">Any feedback on project improvements is welcome.</h3>
+<h5>Any feedback on project improvements is welcome.</h5>
