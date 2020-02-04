@@ -1,4 +1,4 @@
-# JavaScript-function-practice
+# JavaScript Function Practice
 A repo to showcase JavaScript algorithm projects. Included projects:
 
 > Palendrome Checker
