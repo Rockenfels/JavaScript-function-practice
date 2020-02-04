@@ -1,9 +1,9 @@
 # JavaScript Function Practice
-A repo to showcase JavaScript algorithm projects. Included projects:
+<h2>A repo to showcase JavaScript algorithm projects. Included projects:</h2>
 
-> Palendrome Checker
-> Roman Numeral Converter
-> Caesars Cypher 
-> Telephone Number Validator 
+ <li>Palendrome Checker</li>
+ <li>Roman Numeral Converter</li>
+ <li>Caesars Cypher </li>
+ <li>Telephone Number Validator </li>
 
-Any feedback on project improvements is welcome.
+<h3>Any feedback on project improvements is welcome.</h3>
