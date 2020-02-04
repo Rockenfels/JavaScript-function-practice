@@ -5,3 +5,5 @@ A repo to showcase JavaScript algorithm projects. Included projects:
 > Roman Numeral Converter
 > Caesars Cypher 
 > Telephone Number Validator 
+
+Any feedback on project improvements is welcome.
